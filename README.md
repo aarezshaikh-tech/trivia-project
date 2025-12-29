@@ -1,23 +1,21 @@
-Trivia Game — Project Description
+# Python Trivia Quiz Game
 
-Description
-A simple Python-based trivia game that randomly selects questions from a predefined question bank and evaluates user answers in real time. The game tracks the player’s score and displays the final result at the end.
+A simple command-line trivia quiz game built using Python.
 
-Key Features
+## Features
+- Randomly selects questions each time the game runs
+- Accepts user input and validates answers
+- Displays final score at the end of the quiz
 
-Random question selection
+## Concepts Used
+- Python dictionaries
+- Loops and conditionals
+- Functions
+- Random module
+- User input handling
 
-Case-insensitive answer checking
+## How to Run
+1. Make sure Python is installed
+2. Run the file using:
+   python trivia_game.py
 
-Score tracking
-
-Console-based interaction
-
-Technologies Used
-
-Python
-
-random module
-
-Purpose
-Built to practice basic Python concepts such as dictionaries, functions, loops, and user input handling.
